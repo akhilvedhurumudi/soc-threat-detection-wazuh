@@ -1,0 +1,5 @@
+Monitor critical files
+
+/etc/passwd
+/etc/shadow
+/var/log/auth.log
